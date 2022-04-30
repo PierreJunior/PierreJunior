@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PierreJunior
 - 👀 I’m interested in -> web development
-- 🌱 I’m currently learning -> React
+- 🌱 I’m currently learning -> React and Python
 - 📫 How to reach me -> pierresangwa@gmail.com
 
 <!---
