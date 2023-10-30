@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @PierreJunior
-- 👀 I’m interested in -> Mobile App Development
-- 🌱 I’m currently learning -> Flutter
 - 📫 How to reach me -> pierresangwa@gmail.com
 
 <!---
